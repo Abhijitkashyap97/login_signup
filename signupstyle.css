@@ -1,0 +1,42 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border :2px solid black;
+    background-color: floralwhite;
+    height: 390px;
+    margin-left: 300px;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+label{
+    font-size: 20px;
+}
+.abc{
+    width: 250px;
+    height:25px;
+    border:1px solid black;
+}
+.def{
+    width: 250px;
+    height:25px;
+    border: 1px solid black;
+}
+.butt{
+    margin-top: 3px;
+    margin-left:50px;
+    width: 160px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: rgb(124, 124, 173);
+    font-size:15px;
+}
+.butt:active{
+    cursor: pointer;
+}
+body{
+    background-color: antiquewhite;
+}
+
